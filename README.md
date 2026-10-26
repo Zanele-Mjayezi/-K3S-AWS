@@ -120,8 +120,8 @@ Record the values — you will need them throughout this guide:
 
 | Hostname | Private IP | Public IP |
 |----------|------------|-----------|
-| k3s-master-1 | 172.31.37.123  | 34.239.186.226 |
-| k3s-master-2 |  172.31.38.22 | 35.173.237.38 |
+| k3s-master-1 | 172.31.37.123 | 34.239.186.226 |
+| k3s-master-2 | 172.31.47.122 | 100.31.50.43 |
 | k3s-master-3 |  172.31.33.72 | 54.90.160.39 |
 
 ---
